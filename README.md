@@ -1,4 +1,4 @@
-Here's a more concise and responsive README for "King Sukh":
+
 
 ---
 
